@@ -1,6 +1,6 @@
 ## Hi there, I'm Mike, hope we get along! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-michelealiffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelealiffi)](https://www.linkedin.com/in/michelealiffi)
+[![Linkedin Badge](https://img.shields.io/badge/-michelealiffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michele-aliffi-552442188/)](https://www.linkedin.com/in/michele-aliffi-552442188/)
 [![Gmail Badge](https://img.shields.io/badge/-mchelealiffiinfo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mchelealiffiinfo@gmail.com)](mailto:mchelealiffiinfo@gmail.com)
 
 #### For any question or doubt, you can contact me here:
