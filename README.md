@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Mike, hope we get along! 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-michelealiffi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelealiffi)](https://www.linkedin.com/in/michelealiffi)
+[![Gmail Badge](https://img.shields.io/badge/-mchelealiffiinfo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mchelealiffiinfo@gmail.com)](mailto:mchelealiffiinfo@gmail.com)
+
+#### For any question or doubt, you can contact me here:
+- 📨 mchelealiffiinfo@gmail.com
+- 💬 PM me on LinkedIn
 
 <!--
 **michelealiffi/michelealiffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
