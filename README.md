@@ -41,6 +41,7 @@ Sono Michele, un Junior Full Stack Developer con una forte passione per lo svilu
 | phpMyAdmin  | ![phpMyAdmin Logo](https://img.shields.io/badge/phpMyAdmin-000000?style=flat&logo=phpmyadmin&logoColor=0064A0) |
 | Java        | ![Java Logo](https://img.shields.io/badge/Java-000000?style=flat&logo=intellijidea&logoColor=%23DA4839) |
 | Spring      | ![Spring Logo](https://img.shields.io/badge/Spring-000000?style=flat&logo=Spring&logoColor=%236AAE3E) |
+| NodeJs      | ![NodeJs Logo](https://img.shields.io/badge/NodeJs-000000?style=flat&logo=nodedotjs&logoColor=%2375AD62) |
 
 
 ## 🚀 Cosa Offro
