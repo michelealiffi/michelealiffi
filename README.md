@@ -72,6 +72,7 @@ queste sono quelle con cui voglio cimentarmi o mi cimenterò per altri progetti 
 | Pico        | ![Pico Logo](https://img.shields.io/badge/Pico-000000?style=flat&logo=pico&logoColor=%2332668F) |
 | React       | ![React Logo](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=%2309D2F7) |
 | Angular     | ![Angular Logo](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=%23D80531) |
+| Typescript  | ![Typescript Logo](https://img.shields.io/badge/Typescript-000000?style=flat&logo=typescript&logoColor=%233178C6) |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
