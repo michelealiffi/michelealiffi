@@ -23,6 +23,7 @@ Sono Michele, un Junior Full Stack Developer con una forte passione per lo svilu
 | Vue.js      | ![Vue.js Logo](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vue.js&logoColor=4FC08D) |
 | Vite        | ![Vite Logo](https://img.shields.io/badge/Vite-000000?style=flat&logo=Vite&logoColor=%238B6EF7) |
 | Bootstrap   | ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C) |
+| Angular     | ![Angular Logo](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=%23D80531) |
 
 
 <img>
@@ -42,6 +43,7 @@ Sono Michele, un Junior Full Stack Developer con una forte passione per lo svilu
 | Java        | ![Java Logo](https://img.shields.io/badge/Java-000000?style=flat&logo=intellijidea&logoColor=%23DA4839) |
 | Spring      | ![Spring Logo](https://img.shields.io/badge/Spring-000000?style=flat&logo=Spring&logoColor=%236AAE3E) |
 | NodeJs      | ![NodeJs Logo](https://img.shields.io/badge/NodeJs-000000?style=flat&logo=nodedotjs&logoColor=%2375AD62) |
+| Python      | ![Python Logo](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=%2332668F) |
 
 
 ## 🚀 Cosa Offro
@@ -67,11 +69,9 @@ queste sono quelle con cui voglio cimentarmi o mi cimenterò per altri progetti 
 
 | Tecnologia  | Logo                                                                 |
 |-------------|----------------------------------------------------------------------|
-| Python      | ![Python Logo](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=%2332668F) |
 | Tailwind    | ![Tailwind Logo](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss&logoColor=38B2AC) |
 | Pico        | ![Pico Logo](https://img.shields.io/badge/Pico-000000?style=flat&logo=pico&logoColor=%2332668F) |
 | React       | ![React Logo](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=%2309D2F7) |
-| Angular     | ![Angular Logo](https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=%23D80531) |
 | Typescript  | ![Typescript Logo](https://img.shields.io/badge/Typescript-000000?style=flat&logo=typescript&logoColor=%233178C6) |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
