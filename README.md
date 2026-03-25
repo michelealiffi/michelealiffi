@@ -44,6 +44,7 @@ Sono Michele, un Junior Full Stack Developer con una forte passione per lo svilu
 | Spring      | ![Spring Logo](https://img.shields.io/badge/Spring-000000?style=flat&logo=Spring&logoColor=%236AAE3E) |
 | NodeJs      | ![NodeJs Logo](https://img.shields.io/badge/NodeJs-000000?style=flat&logo=nodedotjs&logoColor=%2375AD62) |
 | Python      | ![Python Logo](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=%2332668F) |
+| Typescript  | ![Typescript Logo](https://img.shields.io/badge/Typescript-000000?style=flat&logo=typescript&logoColor=%233178C6) |
 
 
 ## 🚀 Cosa Offro
@@ -72,7 +73,6 @@ queste sono quelle con cui voglio cimentarmi o mi cimenterò per altri progetti 
 | Tailwind    | ![Tailwind Logo](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss&logoColor=38B2AC) |
 | Pico        | ![Pico Logo](https://img.shields.io/badge/Pico-000000?style=flat&logo=pico&logoColor=%2332668F) |
 | React       | ![React Logo](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=%2309D2F7) |
-| Typescript  | ![Typescript Logo](https://img.shields.io/badge/Typescript-000000?style=flat&logo=typescript&logoColor=%233178C6) |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
